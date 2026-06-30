@@ -54,9 +54,9 @@ I am a passionate Software Engineer dedicated to building AI-powered web applica
 
 - **🧠 Multi-Agent AI Research System**
 
-  -An AI-powered research assistant built using CrewAI that orchestrates multiple specialized AI agents to perform end-to-end research.
-- *Tech: Streamlit, CrewAI, Groq API(Llama 3.3 70B Versatile),DuckDuckGo Search Tool*
-- [🔗 Repository Link](https://github.com/yashu-2408?tab=repositories)
+   -An AI-powered research assistant built using CrewAI that orchestrates multiple specialized AI agents to perform end-to-end research.
+   - *Tech: Streamlit, CrewAI, Groq API(Llama 3.3 70B Versatile),DuckDuckGo Search Tool*
+   - [🔗 Repository Link](https://github.com/yashu-2408?tab=repositories)
 
 
 - **🤖 AI-Driven Travel Itinerary Planner**
