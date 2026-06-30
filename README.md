@@ -52,6 +52,40 @@ I am a passionate Software Engineer dedicated to building AI-powered web applica
 
 ### 🌟 Featured Projects
 
+🧠 Multi-Agent AI Research System
+
+An AI-powered research assistant built using CrewAI that orchestrates multiple specialized AI agents to perform end-to-end research. The system automatically searches the web, analyzes information from multiple sources, generates concise summaries, and produces structured research reports using state-of-the-art Large Language Models.
+
+✨ Features
+
+- 🤖 Multi-Agent collaboration using CrewAI
+- 🌐 Real-time web research with DuckDuckGo Search
+- 🧠 AI-powered reasoning using Groq Llama 3.3 70B
+- 📑 Automatic report generation
+- 📚 Intelligent information aggregation
+- 💬 Interactive conversational workflow
+- ⚡ Fast inference through the Groq API
+- 📄 Context-aware summarization and analysis
+
+🛠️ Tech Stack
+
+- CrewAI
+- Groq API (Llama 3.3 70B Versatile)
+- DuckDuckGo Search Tool
+- Python
+- Streamlit
+- Markdown Report Generation
+
+👥 AI Agents
+
+- 🔎 Research Agent – Searches the web for relevant information.
+- 📖 Analysis Agent – Evaluates and organizes collected data.
+- 📝 Report Writer Agent – Produces comprehensive, well-structured research reports.
+
+«Outcome: A collaborative AI research system that automates the complete research pipeline—from information gathering to report generation—using multiple intelligent agents.»
+- [🔗 Repository Link](https://github.com/yashu-2408?tab=repositories)
+
+
 - **🤖 AI-Driven Travel Itinerary Planner**
   - A smart travel assistant that generates personalized itineraries based on user preferences.
   - *Tech: React, Django, OpenAI API*
@@ -66,21 +100,6 @@ I am a passionate Software Engineer dedicated to building AI-powered web applica
   - A web application that predicts stock price trends using machine learning models.
   - *Tech: Python, Streamlit, Scikit-learn*
   - [🔗 Repository Link](https://github.com/yashu-2408?tab=repositories)
-
-- **📱 Custom Android ROM Development**
-  - Deep dive into Android internals, kernels, and system-level customizations.
-  - *Tech: C++, Java, Linux Kernel*
-  - [🔗 Repository Link](https://github.com/yashu-2408?tab=repositories)
-
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yashu-2408&show_icons=true&theme=radical&hide_border=true" alt="Vipul's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yashu-2408&layout=compact&theme=radical&hide_border=true" alt="Vipul's Top Languages" />
-</p>
-
 ---
 
 ### 🤝 Connect with Me
