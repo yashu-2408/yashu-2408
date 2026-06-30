@@ -52,37 +52,10 @@ I am a passionate Software Engineer dedicated to building AI-powered web applica
 
 ### 🌟 Featured Projects
 
-🧠 Multi-Agent AI Research System
+- **🧠 Multi-Agent AI Research System**
 
-An AI-powered research assistant built using CrewAI that orchestrates multiple specialized AI agents to perform end-to-end research. The system automatically searches the web, analyzes information from multiple sources, generates concise summaries, and produces structured research reports using state-of-the-art Large Language Models.
-
-✨ Features
-
-- 🤖 Multi-Agent collaboration using CrewAI
-- 🌐 Real-time web research with DuckDuckGo Search
-- 🧠 AI-powered reasoning using Groq Llama 3.3 70B
-- 📑 Automatic report generation
-- 📚 Intelligent information aggregation
-- 💬 Interactive conversational workflow
-- ⚡ Fast inference through the Groq API
-- 📄 Context-aware summarization and analysis
-
-🛠️ Tech Stack
-
-- CrewAI
-- Groq API (Llama 3.3 70B Versatile)
-- DuckDuckGo Search Tool
-- Python
-- Streamlit
-- Markdown Report Generation
-
-👥 AI Agents
-
-- 🔎 Research Agent – Searches the web for relevant information.
-- 📖 Analysis Agent – Evaluates and organizes collected data.
-- 📝 Report Writer Agent – Produces comprehensive, well-structured research reports.
-
-«Outcome: A collaborative AI research system that automates the complete research pipeline—from information gathering to report generation—using multiple intelligent agents.»
+  -An AI-powered research assistant built using CrewAI that orchestrates multiple specialized AI agents to perform end-to-end research.
+- *Tech: Streamlit, CrewAI, Groq API(Llama 3.3 70B Versatile),DuckDuckGo Search Tool*
 - [🔗 Repository Link](https://github.com/yashu-2408?tab=repositories)
 
 
